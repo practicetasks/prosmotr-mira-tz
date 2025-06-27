@@ -275,3 +275,7 @@ HTML-элементов. Вы всё так же можете использов
 
 
 
+
+https://github.com/user-attachments/assets/a97d71ee-e090-4fa7-9399-fbb6b0ffa082
+
+
